@@ -2,5 +2,8 @@ hello world
 1/ abcxyz
 2/ mnbvcz
 
-//Nh·nh branch
+//Nh√°nh branch
 3/ phim hay .org
+
+//Them trong github 
+4/ pull.org
