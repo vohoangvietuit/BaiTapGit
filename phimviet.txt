@@ -1,4 +1,4 @@
-hello world
+﻿hello world
 1/ abcxyz
 2/ mnbvcz
 
@@ -6,4 +6,4 @@ hello world
 3/ phim hay .org
 
 //Them trong github 
-4/ pull.org
+4/ pull.org & loi conflict ngay day
